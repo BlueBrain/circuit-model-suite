@@ -1,1 +1,55 @@
-# circuit-model-suite
+# Circuit Model Suite
+A suite to build, analyze and visualize circuits.
+
+- [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
+- [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
+- [Brayns](#brayns) — TBD.
+- [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
+
+## CoreNeuron
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/CoreNeuron),
+[Documentation](https://github.com/BlueBrain/CoreNeuron#readme).
+
+**Optimised simulator engine for NEURON**
+
+CoreNEURON is a compute engine for the NEURON simulator optimised for both memory usage and computational speed. Its goal is to simulate large cell networks with small memory footprint and optimal performance.
+
+## Snap
+<img alt="Snap Banner" src="https://github.com/BlueBrain/snap/raw/master/doc/source/_images/BlueBrainSNAP.jpg" width="600"/>
+
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/snap),
+[Documentation](https://bluebrainsnap.readthedocs.io/).
+
+**Blue Brain Simulation and Neural network Analysis Productivity layer (Blue Brain SNAP)**
+
+Blue Brain SNAP is a Python library for accessing BlueBrain circuit models represented in SONATA format.
+
+## Brayns
+<img alt="Snap Banner" src="https://github.com/BlueBrain/Brayns/raw/master/doc/images/Brayns.jpg" width="600"/>
+
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/Brayns),
+[Documentation](https://github.com/BlueBrain/Brayns#readme).
+
+**TBD**
+
+TBD.
+
+
+## libsonata
+<img alt="Snap Banner" src="https://github.com/BlueBrain/libsonata/raw/master/docs/source/_images/libSonataLogo.jpg" width="600"/>
+
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/libsonata),
+[Documentation](https://github.com/BlueBrain/libsonata#readme).
+
+**C++ / Python reader for SONATA circuit files**
+
+TBD.
+
