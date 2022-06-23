@@ -3,7 +3,7 @@ A suite to build, analyze and visualize circuits.
 
 - [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
 - [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
-- [Brayns](#brayns) — TBD.
+- [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 
 ## CoreNeuron
@@ -36,9 +36,9 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/Brayns),
 [Documentation](https://github.com/BlueBrain/Brayns#readme).
 
-**TBD**
+**Visualizer for large-scale and interactive ray-tracing of neurons**
 
-TBD.
+Brayns is a minimalistic visualiser that can perform ray-traced rendering of neurons. It provides an abstraction of the underlying rendering engines, so that the best possible acceleration libraries can be used for the relevant hardware.
 
 
 ## libsonata
@@ -50,6 +50,3 @@ Useful links:
 [Documentation](https://github.com/BlueBrain/libsonata#readme).
 
 **C++ / Python reader for SONATA circuit files**
-
-TBD.
-
