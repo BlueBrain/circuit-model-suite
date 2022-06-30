@@ -15,6 +15,7 @@ Useful links:
 **Optimised simulator engine for NEURON**
 
 CoreNEURON is a compute engine for the NEURON simulator optimised for both memory usage and computational speed. Its goal is to simulate large cell networks with small memory footprint and optimal performance.
+<img alt="CoreNEURON Banner" src="https://raw.githubusercontent.com/BlueBrain/CoreNeuron/master/docs/_static/bluebrain_coreneuron.jpg" width="600"/>
 
 ## Snap
 <img alt="Snap Banner" src="https://github.com/BlueBrain/snap/raw/master/doc/source/_images/BlueBrainSNAP.jpg" width="600"/>
