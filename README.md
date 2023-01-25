@@ -31,7 +31,7 @@ Useful links:
 Blue Brain SNAP is a Python library for accessing BlueBrain circuit models represented in SONATA format.
 
 ## Brayns
-<img alt="Snap Banner" src="https://github.com/BlueBrain/Brayns/raw/master/doc/images/Brayns.jpg" width="600"/>
+<img alt="Brayns Banner" src="https://raw.githubusercontent.com/BlueBrain/Brayns/master/doc/banner.jpg" width="600"/>
 
 
 Useful links:
