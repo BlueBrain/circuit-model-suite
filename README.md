@@ -5,7 +5,7 @@ A suite to build, analyze and visualize circuits.
 - [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
-- [BioExplorer](#bioexplorer) - extract and analyze scientific data for visualization and interactive exploration
+- [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
 ## CoreNeuron
 <img alt="CoreNEURON Banner" src="https://raw.githubusercontent.com/BlueBrain/CoreNeuron/master/docs/_static/bluebrain_coreneuron.jpg" width="600"/>
