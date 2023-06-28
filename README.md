@@ -1,8 +1,9 @@
 # Circuit Model Suite
 A suite to build, analyze and visualize circuits.
 
+- [ConnectomeUtilities] (#connectomeutilities) - Complex network representation and analysis layer.
 - [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
-- [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
+- [Snap](#snap) — Blue Brain Simulation and Neural Network Analysis Productivity layer.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
