@@ -8,14 +8,17 @@ A suite to build, analyze and visualize circuits.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
-## ConnectomeUtilities
+## [ConnectomeUtilities](https://github.com/BlueBrain/ConnectomeUtilities)
 <img alt="ConnectomeUtilities Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/ConnectomeUtilities)
 
 **Complex network representation and analysis layer**
 
 It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
 
-## CoreNeuron
+## [CoreNeuron](https://github.com/BlueBrain/CoreNeuron)
 <img alt="CoreNEURON Banner" src="https://raw.githubusercontent.com/BlueBrain/CoreNeuron/master/docs/_static/bluebrain_coreneuron.jpg" width="600"/>
 
 Useful links:
@@ -27,7 +30,7 @@ Useful links:
 CoreNEURON is a compute engine for the NEURON simulator optimized for both memory usage and computational speed. Its goal is to simulate large cell networks with small memory footprint and optimal performance.
 
 
-## Snap
+## [Snap](https://github.com/BlueBrain/snap)
 <img alt="Snap Banner" src="https://github.com/BlueBrain/snap/raw/master/doc/source/_images/BlueBrainSNAP.jpg" width="600"/>
 
 
@@ -39,7 +42,7 @@ Useful links:
 
 Blue Brain SNAP is a Python library for accessing BlueBrain circuit models represented in SONATA format.
 
-## Brayns
+## [Brayns](https://github.com/BlueBrain/Brayns)
 <img alt="Brayns Banner" src="https://raw.githubusercontent.com/BlueBrain/Brayns/master/doc/banner.jpg" width="600"/>
 
 
@@ -52,7 +55,7 @@ Useful links:
 Brayns is a minimalistic visualizer that can perform ray-traced rendering of neurons. It provides an abstraction of the underlying rendering engines so that the best possible acceleration libraries can be used for the relevant hardware.
 
 
-## libsonata
+## [libsonata](https://github.com/BlueBrain/libsonata)
 <img alt="Snap Banner" src="https://github.com/BlueBrain/libsonata/raw/master/docs/source/_images/libSonataLogo.jpg" width="600"/>
 
 
@@ -62,7 +65,7 @@ Useful links:
 
 **C++ / Python reader for SONATA circuit files**
 
-## BioExplorer
+## [BioExplorer](https://github.com/BlueBrain/BioExplorer)
 <img alt="BioExplorer Banner" src="https://github.com/BlueBrain/BioExplorer/raw/master/bioexplorer/pythonsdk/notebooks/bioexplorer_banner.png" width="600"/>
 
 **The Blue Brain BioExplorer is a tool for scientists to extract and analyze scientific data for visualization and interactive exploration**
