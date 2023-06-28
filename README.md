@@ -9,8 +9,9 @@ A suite to build, analyze and visualize circuits.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
 ## ConnectomeUtilities
-<img alt="ConnectommeUtility Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" with=600"/>
+<img alt="ConnectomeUtilities Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" width="600"/>
 
+**Complex network representation and analysis layer**
 It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
 
 ## CoreNeuron
