@@ -10,6 +10,8 @@ A suite to build, analyze and visualize circuits.
 ## ConnectomeUtilities
 <img alt="ConnectommeUtility Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" with=600"/>
 
+Complex network representation and analysis layer
+
 ## CoreNeuron
 <img alt="CoreNEURON Banner" src="https://raw.githubusercontent.com/BlueBrain/CoreNeuron/master/docs/_static/bluebrain_coreneuron.jpg" width="600"/>
 
