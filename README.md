@@ -1,7 +1,7 @@
 # Circuit Model Suite
 A suite to build, analyze and visualize circuits.
 
-- [ConnectomeUtilities] (#connectomeutilities) - Complex network representation and analysis layer.
+- [ConnectomeUtilities](#connectomeutiilities) — Complex network representation and analysis layer.
 - [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
 - [Snap](#snap) — Blue Brain Simulation and Neural Network Analysis Productivity layer.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
@@ -12,6 +12,7 @@ A suite to build, analyze and visualize circuits.
 <img alt="ConnectomeUtilities Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" width="600"/>
 
 **Complex network representation and analysis layer**
+
 It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
 
 ## CoreNeuron
