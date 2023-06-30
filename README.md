@@ -1,22 +1,14 @@
 # Circuit Model Suite
 A suite to build, analyze and visualize circuits.
 
-- [ConnectomeUtilities](#connectomeutiilities) — Complex network representation and analysis layer.
 - [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
-- [Snap](#snap) — Blue Brain Simulation and Neural Network Analysis Productivity layer.
+- [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
+- [ConnectomeUtilities](#connectomeutilities) — Complex network representation and analysis layer.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
 
-## [ConnectomeUtilities](https://github.com/BlueBrain/ConnectomeUtilities)
-<img alt="ConnectomeUtilities Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" width="600"/>
 
-Useful links:
-[GitHub repo](https://github.com/BlueBrain/ConnectomeUtilities)
-
-**Complex network representation and analysis layer**
-
-It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
 
 ## [CoreNeuron](https://github.com/BlueBrain/CoreNeuron)
 <img alt="CoreNEURON Banner" src="https://raw.githubusercontent.com/BlueBrain/CoreNeuron/master/docs/_static/bluebrain_coreneuron.jpg" width="600"/>
@@ -38,9 +30,19 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/snap),
 [Documentation](https://bluebrainsnap.readthedocs.io/).
 
-**Blue Brain Simulation and Neural Network Analysis Productivity layer (Blue Brain SNAP)**
+**Blue Brain Simulation and Neural network Analysis Productivity layer (Blue Brain SNAP)**
 
 Blue Brain SNAP is a Python library for accessing BlueBrain circuit models represented in SONATA format.
+
+## [ConnectomeUtilities](https://github.com/BlueBrain/ConnectomeUtilities)
+<img alt="ConnectomeUtilities Banner" src="https://raw.githubusercontent.com/BlueBrain/ConnectomeUtilities/main/banner-ConnectomeUtilities.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/ConnectomeUtilities)
+
+**Complex network representation and analysis layer**
+
+It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
 
 ## [Brayns](https://github.com/BlueBrain/Brayns)
 <img alt="Brayns Banner" src="https://raw.githubusercontent.com/BlueBrain/Brayns/master/doc/banner.jpg" width="600"/>
