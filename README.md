@@ -1,14 +1,26 @@
 # Circuit Model Suite
 A suite to build, analyze and visualize circuits.
 
+- [Neurodamus](#neurodamus) - BBP Simulation Control application for NEURON.
 - [CoreNeuron](#coreneuron) — Optimised simulator engine for NEURON.
 - [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
 - [ConnectomeUtilities](#connectomeutilities) — Complex network representation and analysis layer.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
-- [Neurodamus](#neurodamus) - BBP Simulation Control application for NEURON.
 
+
+
+## [Neurodamus](https://github.com/BlueBrain/Neurodamus)
+<img alt="neurodamus Banner" src="https://github.com/BlueBrain/neurodamus/blob/publication/nbS1-2023/docs/img/neurodamus_banner_230701.png" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/neurodamus),
+[Documentation](https://github.com/BlueBrain/neurodamus#readme).
+
+**BBP Simulation Control application for NEURON**
+
+Neurodamus is a BBP Simulation Control application for the NEURON simulator. The Python implementation offers a comprehensive Python API for fine tunning of the simulation, defined by a configuration file in SONATA format.
 
 
 ## [CoreNeuron](https://github.com/BlueBrain/CoreNeuron)
@@ -79,14 +91,3 @@ Useful links:
 [GitHub repo](https://github.com/BlueBrain/BioExplorer),
 [Documentation](https://bluebrain.github.io/BioExplorer/).
 
-
-## [Neurodamus](https://github.com/BlueBrain/Neurodamus)
-<img alt="neurodamus Banner" src="https://github.com/BlueBrain/neurodamus/blob/publication/nbS1-2023/docs/img/neurodamus_banner_230701.png" width="600"/>
-
-Useful links:
-[GitHub repo](https://github.com/BlueBrain/neurodamus),
-[Documentation](https://github.com/BlueBrain/neurodamus#readme).
-
-**BBP Simulation Control application for NEURON**
-
-Neurodamus is a BBP Simulation Control application for the NEURON simulator. The Python implementation offers a comprehensive Python API for fine tunning of the simulation, defined by a configuration file in SONATA format.
