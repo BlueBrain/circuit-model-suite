@@ -6,6 +6,7 @@ A suite to build, analyze and visualize circuits.
 - [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
 - [BlueETL](#blueetl) - Multiple simulations analysis tool.
 - [ConnectomeUtilities](#connectomeutilities) — Complex network representation and analysis layer.
+- [Functionalizer](#functionalizer) - Create a functional connectome from physical connections between cells.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
 - [BioExplorer](#bioexplorer) - Extract and analyze scientific data for visualization and interactive exploration.
@@ -71,6 +72,17 @@ Useful links:
 **Complex network representation and analysis layer**
 
 It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
+
+## [Functionalizer](https://github.com/BlueBrain/functionalizer)
+<img alt="Functionalizer Banner" src="https://raw.githubusercontent.com/BlueBrain/functionalizer/main/doc/source/_static/banner.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/functionalizer)
+
+**Create a functional connectome from physical connections between cells**
+
+Functionalizer is a tool for filtering the output of a touch detector (the "touches") according to morphological models, given in in the form of recipe prescription as described in the SONATA extension.
+
 
 ## [Brayns](https://github.com/BlueBrain/Brayns)
 <img alt="Brayns Banner" src="https://raw.githubusercontent.com/BlueBrain/Brayns/master/doc/banner.jpg" width="600"/>
