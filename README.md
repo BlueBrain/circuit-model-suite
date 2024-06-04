@@ -6,6 +6,7 @@ A suite to build, analyze and visualize circuits.
 - [Snap](#snap) — Blue Brain Simulation and Neural network Analysis Productivity layer.
 - [BlueETL](#blueetl) - Multiple simulations analysis tool.
 - [ConnectomeUtilities](#connectomeutilities) — Complex network representation and analysis layer.
+- [ConnectomeManipulator](#connectomemanipulator) - A connectome manipulation framework for SONATA circuits .
 - [Functionalizer](#functionalizer) - Create a functional connectome from physical connections between cells.
 - [Brayns](#brayns) — Visualizer for large-scale and interactive ray-tracing of neurons.
 - [libsonata](#libsonata) — C++ / Python reader for SONATA circuit files.
@@ -72,6 +73,16 @@ Useful links:
 **Complex network representation and analysis layer**
 
 It simplifies running topological analyses on detailed models of networks by providing a bridge between existing analyses and the model representation.
+
+## [ConnectomeManipulator](https://github.com/BlueBrain/connectome-manipulator)
+<img alt="ConnectomeManipulator Banner" src="https://raw.githubusercontent.com/BlueBrain/connectome-manipulator/main/BPP-Connectome-Manipulator-Banner.jpg" width="600"/>
+
+Useful links:
+[GitHub repo](https://github.com/BlueBrain/connectome-manipulator)
+
+**Connectome manipulation framework for SONATA circuits**
+
+The framework allows for rapid connectome manipulations of biophysically detailed network models in SONATA format, the standard for large-scale network models. Manipulations can be targeted to entire models, specific sub-networks, or even single neurons, ranging from insertion or removal of specific motifs to complete rewiring based on stochastic connectivity models at various levels of complexity.
 
 ## [Functionalizer](https://github.com/BlueBrain/functionalizer)
 <img alt="Functionalizer Banner" src="https://raw.githubusercontent.com/BlueBrain/functionalizer/main/doc/source/_static/banner.jpg" width="600"/>
